@@ -1,0 +1,6 @@
+{
+  "name": "Bakso Bakar Trowulan 65",
+  "description": "Aplikasi menu digital interaktif dan pemesanan Bakso Bakar Trowulan 65 Malang, dilengkapi keranjang belanja pintas, galeri, kisah sejarah, dan interaksi peta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
